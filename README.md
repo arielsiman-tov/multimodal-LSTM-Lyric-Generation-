@@ -1,4 +1,4 @@
-# multimodal-LSTM-Lyric-Generation-
+# Multimodal-LSTM-Lyric-Generation Model
  A multimodal LSTM-based model to generate song lyrics from melodies and lyrics combination.
 
 **1.	Goal of the project** - implements a multimodal LSTM-based model to generate song lyrics from melodies and lyrics combination. We chose to implement an LSTM-based model due to its ability to effectively manage long-term dependencies. This capability makes LSTMs a promising choice for our objective, which is to generate coherent and contextually consistent text.
